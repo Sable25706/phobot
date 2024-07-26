@@ -12,7 +12,7 @@ It targets other players and attacks them with modules like KillAura, AutoCrysta
 
 I will take a break from maintaining this, as the bot has reached the main goals I set for the first milestone:
 
-After I deployed it on a VM with a latency of 10ms it has reached over 2000 elo
+After I deployed it on a VM with a latency of 10ms it has reached over 2001 elo
 (best I saw was 2037) in crystalpvp.cc FFA on its own within a few hours,
 though it seems to average out between 1900 and 2000 elo in the presence of stronger players.
 It has also managed to beat such 2000+ elo players on some occasions.

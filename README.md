@@ -18,7 +18,7 @@ though it seems to average out between 1900 and 2000 elo in the presence of stro
 It has also managed to beat such 2000+ elo players on some occasions.
 A small video from before can be found [here](https://youtu.be/4Mcz-MGM_g8?feature=shared).
 
-## Limitations
+## Limitations of the bot
 Better players, I would say someone who can play above 2000 elo consistently on crystalpvp.cc, should also
 win against Phobot consistently. Its main limitations stem from its decision-making and pathfinder.
 Here are some of the most pressing issues:
